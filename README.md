@@ -40,9 +40,3 @@ Corrections, new resources, and additional exercises are welcome. Please keep ex
 ## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
-You may share and adapt it for any purpose, including commercially, as long as you give appropriate credit, link to the license, and indicate if changes were made.
-
-Suggested attribution: "Reverse Engineering for Python Programmers" by [Your Name], licensed under CC BY 4.0.
-
-The third-party resources linked from the course are not covered by this license and remain subject to their own terms.
