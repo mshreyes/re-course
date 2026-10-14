@@ -37,6 +37,15 @@ Resource links point to third-party sites and may change or disappear over time.
 
 Corrections, new resources, and additional exercises are welcome. Please keep exercises in Python and prefer free resources where possible.
 
+## Acknowledgments
+
+- Courses and books: [CS50x](https://cs50.harvard.edu/x) (Harvard), [Nand2Tetris](https://www.nand2tetris.org), [Beej's Guide to C Programming](https://beej.us/guide/bgc/), [Reverse Engineering for Beginners](https://beginners.re) (Dennis Yurichev), [OpenSecurityTraining2](https://p.ost2.fyi), [Begin.re](https://www.begin.re), [Practical Malware Analysis](https://nostarch.com/malware), [Practical Binary Analysis](https://nostarch.com/binaryanalysis)
+- Video channels: [LiveOverflow](https://www.youtube.com/@LiveOverflow), [stacksmashing](https://www.youtube.com/@stacksmashing), [OALabs](https://www.youtube.com/@OALabs)
+- Tools and documentation: [Ghidra](https://ghidra-sre.org), [pwndbg](https://github.com/pwndbg/pwndbg), [Compiler Explorer](https://godbolt.org), [Decompiler Explorer](https://dogbolt.org), [Capstone](https://www.capstone-engine.org), [pwntools](https://docs.pwntools.com), [angr](https://docs.angr.io), [VirtualBox](https://www.virtualbox.org), [Ubuntu](https://ubuntu.com/download/desktop), Python [struct](https://docs.python.org/3/library/struct.html) and [ctypes](https://docs.python.org/3/library/ctypes.html) documentation
+- Practice platforms: [picoCTF](https://picoctf.org), [pwn.college](https://pwn.college), [crackmes.one](https://crackmes.one), [Exploit Education](https://exploit.education), [Microcorruption](https://microcorruption.com)
+- Community and legal reference: [Reverse Engineering Stack Exchange](https://reverseengineering.stackexchange.com), [EFF Reverse Engineering FAQ](https://www.eff.org/issues/coders/reverse-engineering-faq)
+- Drafting and coding assistance: [Claude](https://www.anthropic.com/claude) (Anthropic)
+
 ## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
