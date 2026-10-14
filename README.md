@@ -19,7 +19,7 @@ Each module includes a goal, a time estimate, a Python exercise, filterable reso
 
 ## Usage
 
-1. Download `re-course.html`.
+1. Download `index.html`.
 2. Open it in any modern browser. There is no build step or server, and nothing to install.
 
 Your progress (completed modules) is saved in your browser's local storage on your own device. Nothing is sent anywhere.
